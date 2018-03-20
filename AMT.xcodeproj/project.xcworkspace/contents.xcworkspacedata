@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:AMT.xcodeproj">
+      location = "self:/Users/Chuy/Desktop/Courses/AY 2014-15/Spring 2015/SE 131/Project/AMT Stuff/AllMyThings/AMT.xcodeproj">
    </FileRef>
 </Workspace>
